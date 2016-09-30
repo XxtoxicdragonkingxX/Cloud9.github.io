@@ -8,11 +8,11 @@ a:visited {
 
 body {
 	font-family: "Marker Felt", "Comic Sans MS", fantasy;
-	color: #0000ff;
+	color: #ffff00;
 	background-color:#800000;
-	background: url(file:///C:/Users/474527/Downloads/boss.gif);
-	background-position: 100% 100%;
-	background-repeat: repeat;
+	background: url(file://studenthf.kernhigh.org/Home/474527/CSP/My_Website/images/pica.gif);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	padding-left: 15px;
 }
 
